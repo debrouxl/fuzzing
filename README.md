@@ -1,7 +1,7 @@
 Description
 ===========
 This repo contains notes and scripts stemming from my (Lionel Debroux) work [fuzzing](https://en.wikipedia.org/wiki/Fuzzing) various pieces of FLOSS, some of which are popular, since late 2014.
-As of 2019/08, the target OS is Debian 10 "Buster" amd64.
+As of 2020/10, the target OS is Debian 10 "Buster" amd64.
 
 The folder structure is as follows:
 
